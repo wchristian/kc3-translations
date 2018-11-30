@@ -14,7 +14,7 @@
     "103": {
         "code": "A3",
         "name": "Form a Torpedo Squadron!",
-        "desc": "Have a CL as a flagship and 5 DD in your main fleet.",
+        "desc": "Have a CL as a flagship and 4 DD in your main fleet.",
         "unlock": [ 104, 105 ]
     },
     "104": {
@@ -44,19 +44,19 @@
     "108": {
         "code": "A8",
         "name": "Form the Tenryuu-class!",
-        "desc": "Have Tenryuu and Tatsuta in your main fleet.",
+        "desc": "Have Tenryuu, and Tatsuta in your main fleet.",
         "unlock": [ 111 ]
     },
     "109": {
         "code": "A14",
-        "name": "Form the Sendai-class!",
-        "desc": "Have Sendai, Jintsuu and Naka in your main fleet.",
+        "name": "Form the Sendai class!",
+        "desc": "Have Sendai , Jintsuu, and Naka in your main fleet.",
         "unlock": [ 110, 704 ]
     },
     "110": {
         "code": "A15",
         "name": "Form the Myoukou-class!",
-        "desc": "Have Myoukou, Nachi, Ashigara and Haguro in your main fleet.",
+        "desc": "Have Myoukou, Nachi, Ashigara, and Haguro in your main fleet.",
         "unlock": [ 118 ]
     },
     "111": {
@@ -79,8 +79,8 @@
     },
     "114": {
         "code": "A19",
-        "name": "Form the Nagumo Task Force!",
-        "desc": "Have ONLY Akagi, Kaga, Hiryuu and Souryuu in your main fleet.",
+        "name": "Organize the Nagumo Task Force!",
+        "desc": "Have ONLY Akagi, Kaga, Hiryuu, and Souryuu in your main fleet.",
         "unlock": [ 625 ]
     },
     "115": {
@@ -104,43 +104,43 @@
     "118": {
         "code": "A16",
         "name": "Form the Kongou-class!",
-        "desc": "Have Kongou, Hiei, Haruna and Kirishima in your main fleet.",
+        "desc": "Have Kongou, Hiei, Haruna, and Kirishima in your main fleet.",
         "unlock": [ 611 ]
     },
     "119": {
         "code": "A20",
         "name": "Form the Mikawa Fleet!",
-        "desc": "Have Choukai, Aoba, Kako, Furutaka, Tenryuu and a FAST speed ship in your main fleet.",
+        "desc": "Have Choukai, Aoba, Kako, Furutaka, Tenryuu, and a FAST ship in your main fleet.",
         "unlock": [ 121, 219 ]
     },
     "120": {
         "code": "A10",
         "name": "Form the Destroyer Division 6!",
-        "desc": "Have ONLY Akatsuki, Hibiki, Inazuma and Ikazuchi in your main fleet.",
+        "desc": "Have ONLY Akatsuki, Hibiki, Inazuma, and Ikazuchi in your main fleet.",
         "unlock": [ 128, 222, 274 ]
     },
     "121": {
         "code": "A21",
         "name": "Form the Cruiser Division 4!",
-        "desc": "Have Atago, Takao, Choukai and Maya in your main fleet.",
+        "desc": "Have Atago, Takao, Choukai, and Maya in your main fleet.",
         "unlock": [ 122, 124, 125, 127, 129, 223 ]
     },
     "122": {
         "code": "A22",
         "name": "Form the Nishimura Fleet!",
-        "desc": "Have Fusou, Yamashiro, Mogami and Shigure in your main fleet.",
+        "desc": "Have Fusou, Yamashiro, Mogami, and Shigure in your main fleet.",
         "unlock": [ 123, 126, 224 ]
     },
     "123": {
         "code": "A23",
         "name": "Form the Carrier Division 5!",
-        "desc": "Have Shoukaku, Zuikaku and 2 DD in your main fleet.",
+        "desc": "Have Shoukaku, Zuikaku, and 2 DD in your main fleet.",
         "unlock": [ 143, 148, 161, 225 ]
     },
     "124": {
         "code": "A24",
         "name": "Form the New Mikawa Fleet!",
-        "desc": "Have Choukai, Aoba, Kinugasa, Kako, Furutaka and Tenryuu in your main fleet.",
+        "desc": "Have Choukai, Aoba, Kinugasa, Kako, Furutaka, and Tenryuu in your main fleet.",
         "unlock": [ 227 ]
     },
     "125": {
@@ -164,7 +164,7 @@
     "128": {
         "code": "A28",
         "name": "Form the Cruiser Division 6!",
-        "desc": "Have Furutaka, Kako, Aoba and Kinugasa in your main fleet.",
+        "desc": "Have Furutaka, Kako, Aoba, and Kinugasa in your main fleet.",
         "unlock": [ 138, 233 ]
     },
     "129": {
@@ -182,19 +182,19 @@
     "131": {
         "code": "A31",
         "name": "Form the Destroyer Division 8!",
-        "desc": "Have Asashio, Michishio, Ooshio and Arashio in your fleet.",
+        "desc": "Have Asashio, Michishio, Ooshio, and Arashio in your fleet.",
         "unlock": [ 133, 239 ]
     },
     "132": {
         "code": "A32",
         "name": "Form the Destroyer Division 18!",
-        "desc": "Have ONLY Kasumi, Arare, Kagerou and Shiranui in your fleet.",
+        "desc": "Have ONLY Kasumi, Arare, Kagerou, and Shiranui in your fleet.",
         "unlock": [ 144, 149, 240 ]
     },
     "133": {
         "code": "A33",
         "name": "Form the Destroyer Division 30 (First Generation)!",
-        "desc": "Have ONLY Mutsuki, Kisaragi, Yayoi and Mochizuki in your fleet.",
+        "desc": "Have ONLY Mutsuki, Kisaragi, Yayoi, and Mochizuki in your fleet.",
         "unlock": [ 136, 244 ]
     },
     "134": {
@@ -211,20 +211,20 @@
     },
     "136": {
         "code": "A34",
-        "name": "Form the 30th Destroyer Fleet (Second Generation)",
-        "desc": "Have only Mutsuki, Yayoi, Uzuki and Mochizuki in your fleet.",
+        "name": "Form the 30th Destroyer Fleet (Second Generation).",
+        "desc": "Have only Mutsuki, Yayoi, Uzuki, and Mochizuki in your fleet.",
         "unlock": [ 152, 248 ]
     },
     "137": {
         "code": "A35",
-        "name": "Form the 5th Fleet",
-        "desc": "Have Myoukou, Nachi and Haguro in your fleet.",
+        "name": "Form the 5th Fleet!",
+        "desc": "Have Myoukou, Nachi, and Haguro in your fleet.",
         "unlock": [ 140, 147, 249, 418 ]
     },
     "138": {
         "code": "A36",
-        "name": "Form the new 2nd Carrier Division",
-        "desc": "Have Hiryuu Kai Ni as the flagship, Souryuu and 2 destroyers in your fleet.",
+        "name": "Form the new 2nd Carrier Division!",
+        "desc": "Have Hiryuu Kai Ni as the flagship, Souryuu, and 2 destroyers in your fleet.",
         "unlock": [ 250 ]
     },
     "139": {
@@ -236,17 +236,17 @@
     "140": {
         "code": "A38",
         "name": "Test the new RADAR!",
-        "desc": "Have Myoukou Kai2 as the flagship of your fleet."
+        "desc": "Have Myoukou Kai-Ni as the flagship of your fleet."
     },
     "141": {
         "code": "A39",
-        "name": "Reorganise the Strengthened 2nd Carrier Division",
-        "desc": "Have Souryuu Kai-2 as flagship with Hiryuu Kai-2 and 2 destroyers in your fleet.",
+        "name": "Reorganise the Strengthened 2nd Carrier Division.",
+        "desc": "Have Souryuu Kai-Ni as flagship with Hiryuu Kai-Ni, and 2 destroyers in your fleet.",
         "unlock": [ 251, 627 ]
     },
     "142": {
         "code": "A40",
-        "name": "Organise the Elite 3rd Battleship Division",
+        "name": "Organise the Elite 3rd Battleship Division!",
         "desc": "Have all four Kongou-class Kai 2 battleships in your main fleet."
     },
     "143": {
@@ -257,86 +257,86 @@
     },
     "144": {
         "code": "A42",
-        "name": "Organise the Main Battleship Fleet: the 2nd Squadron",
+        "name": "Organise the Main Battleship Fleet: the 2nd Squadron!",
         "desc": "Have both Nagato-class and both Fusou-class battleships (and no other ships) in your main fleet.",
         "unlock": [ 258 ]
     },
     "145": {
         "code": "A43",
-        "name": "Organise the Main Battleship Force",
+        "name": "Organise the Main Battleship Force!",
         "desc": "Have three battleships of Nagato, Fusou, Ise or Yamato classes and a light cruiser in your fleet.",
         "unlock": [ 259 ]
     },
     "146": {
         "code": "A45",
-        "name": "Prepare the Arsenal for Renovations",
+        "name": "Prepare the Arsenal for Renovations.",
         "desc": "Have Akashi as your flagship in your main fleet.",
         "unlock": [ 261, 618 ]
     },
     "147": {
         "code": "A44",
-        "name": "Organise the Nishimura Fleet",
-        "desc": "Have Fusou, Yamashiro, Mogami, Shigure and Michishio in your main fleet.",
+        "name": "Organise the Nishimura Fleet!",
+        "desc": "Have Fusou, Yamashiro, Mogami, Shigure, and Michishio in your main fleet.",
         "unlock": [ 262 ]
     },
     "148": {
         "code": "A46",
-        "name": "Organise the Counterattack Squadron",
+        "name": "Organise the Counterattack Squadron!",
         "desc": "Have Kasumi as the flagship, Ashigara, 1 CL and 3 more DDs in your main fleet.",
         "unlock": [ 266 ]
     },
     "149": {
         "code": "A47",
-        "name": "Organise the 11th Destroyer Division",
-        "desc": "Have the 4 Special-type destroyers: Fubuki, Shirayuki, Hatsuyuki and Murakumo in your main fleet. One of them should be the flagship.",
+        "name": "Organise the 11th Destroyer Division!",
+        "desc": "Have the 4 Special-type destroyers: Fubuki, Shirayuki, Hatsuyuki, and Murakumo in your main fleet. One of them should be the flagship.",
         "unlock": [ 267, 268 ]
     },
     "150": {
         "code": "A48",
-        "name": "Organise the 21st Destroyer Division",
-        "desc": "Have only Hatsuharu, Nenohi, Wakaba and Hatsushimo in your main fleet.",
+        "name": "Organise the 21st Destroyer Division!",
+        "desc": "Have only Hatsuharu, Nenohi, Wakaba, and Hatsushimo in your main fleet.",
         "unlock": [ 269 ]
     },
     "151": {
         "code": "A49",
-        "name": "Organise the 22nd Destroyer Division",
-        "desc": "Have only Satsuki, Fumizuki, Nagatsuki and 1 more DD in your main fleet.",
+        "name": "Organise the 22nd Destroyer Division!",
+        "desc": "Have only Satsuki, Fumizuki, Nagatsuki, and 1 more DD in your main fleet.",
         "unlock": [ 270 ]
     },
     "152": {
         "code": "A50",
-        "name": "Organise the New Edition of the Mikawa Fleet",
-        "desc": "Have Choukai Kai2 as the flagship and any five of Aoba, Kinugasa, Kako, Furutaka, Tenryuu, Yuubari in your main fleet.",
+        "name": "Organise the New Edition of the Mikawa Fleet!",
+        "desc": "Have Choukai Kai-Ni as the flagship and any five of Aoba, Kinugasa, Kako, Furutaka, Tenryuu, Yuubari in your main fleet.",
         "unlock": [ 162, 307 ]
     },
     "153": {
         "code": "A51",
-        "name": "Reorganize the 18th Squadron!",
-        "desc": "Have Tenryuu, Tatsuta and 2 or more other ships in your fleet.",
+        "name": "Organize the 18th Squadron!",
+        "desc": "Have Tenryuu, Tatsuta, and 2 or more other ships in your fleet.",
         "unlock": [ 275 ]
     },
     "154": {
         "code": "A52",
         "name": "Organize the surface attack fleet!",
-        "desc": "Have Hiei, Kirishima, Nagara, Akatsuki, Ikazuchi, Inazuma in your fleet.",
+        "desc": "Have Hiei, Kirishima, Nagara, Akatsuki, Ikazuchi, Inazuma in your fleet",
         "unlock": [ 276 ]
     },
     "155": {
         "code": "A53",
         "name": "Organize the new 6th Destroyer Division!",
-        "desc": "Have Akatsuki Kai2 as Flagship with Hibiki/Bep, Ikazuchi, Inazuma in your fleet.",
+        "desc": "Have Akatsuki Kai-Ni as Flagship with Hibiki/Bep, Ikazuchi, Inazuma in your fleet",
         "unlock": [ 277 ]
     },
     "156": {
         "code": "A54",
         "name": "1st Torpedo Squadron, Prepare for a Rush to the Northern Sea",
-        "desc": "Have Abukuma as flagship with Hibiki/Вер, Hatsushimo, Wakaba, Samidare and Shimakaze in your main fleet.",
+        "desc": "Have Abukuma as flagship with Hibiki/Вер, Hatsushimo, Wakaba, Samidare, and Shimakaze in your main fleet.",
         "unlock": [ 278 ]
     },
     "157": {
         "code": "A55",
         "name": "1st Torpedo Squadron, Prepare for Another Rush to the Northern Sea",
-        "desc": "Have Abukuma Kai Ni as flagship with Hibiki/Вер, Yuugumo, Naganami, Akigumo and Shimakaze in your main fleet.",
+        "desc": "Have Abukuma Kai Ni as flagship with Hibiki/Вер, Yuugumo, Naganami, Akigumo, and Shimakaze in your main fleet.",
         "unlock": [ 279 ]
     },
     "161": {
@@ -353,50 +353,50 @@
     },
     "163": {
         "code": "A58",
-        "name": "Organize the 16th Squadron (First Generation)",
+        "name": "Organize the 16th Squadron!",
         "desc": "Have Ashigara as flagship with Kuma and Nagara in your main fleet.",
         "unlock": [ 289 ]
     },
     "164": {
         "code": "A59",
-        "name": "Organize the 3rd Carrier Division",
-        "desc": "Have Zuikaku Kai as flagship, Zuihou, Chitose and Chiyoda (both as CVL, not AV) in your main fleet.",
+        "name": "Organize the 3rd Carrier Division.",
+        "desc": "Have Zuikaku Kai as flagship, Zuihou, Chitose, and Chiyoda (both as CVL, not AV) in your main fleet.",
         "unlock": [ 293, 627 ]
     },
     "165": {
         "code": "A60",
-        "name": "Organize the 4th Carrier Division",
+        "name": "Organize the 4th Carrier Division!",
         "desc": "Have Ise Kai and Hyuuga Kai in your main fleet.",
         "unlock": [ 166 ]
     },
     "166": {
         "code": "A61",
-        "name": "Organize Ozawa's Fleet",
-        "desc": "Have Zuikaku Kai as flagship, Zuihou Kai, Chitose and Chiyoda (both as CVL), Ise Kai and Hyuuga Kai in your main fleet.",
+        "name": "Organize Ozawa's Fleet!",
+        "desc": "Have Zuikaku Kai as flagship, Zuihou Kai, Chitose and Chiyoda (both as CVL), Ise Kai and Hyuuga Kai in your main fleet!",
         "unlock": [ 294 ]
     },
     "167": {
         "code": "A62",
-        "name": "Organize the New Carrier Division",
+        "name": "Organize the New Carrier Division!",
         "desc": "Have Zuikaku Kai Ni, Shoukaku Kai Ni and two Destroyers in your fleet.",
         "unlock": [ 633 ]
     },
     "168": {
         "code": "A63",
-        "name": "Organize the 16th Squadron (Second Generation)",
+        "name": "Organize the 16th Squadron (Second Generation)!",
         "desc": "Have Natori as flagship, Isuzu and Kinu in your fleet.",
         "unlock": [ 295 ]
     },
     "169": {
         "code": "A64",
-        "name": "Organize the New Carrier Division",
+        "name": "Organize the New Carrier Division!",
         "desc": "Have 2 CV, 2 BBV/CAV and 2 DD in your fleet.",
         "unlock": [ 296 ]
     },
     "170": {
         "code": "A65",
         "name": "Strengthen the Surface Counterattack Fleet",
-        "desc": "Have Kasumi as flagship, Ashigara, Ooyodo, Asashimo and Kiyoshimo in your fleet.",
+        "desc": "Have Kasumi as flagship, Ashigara, Ooyodo, Asashimo, and Kiyoshimo in your fleet.",
         "unlock": [ 297 ]
     },
     "171": {
@@ -408,7 +408,7 @@
     "172":{
         "code": "A67",
         "name": "Form the 27th Destroyer Division (Second Generation)",
-        "desc": "Have Shiratsuyu Kai as flagship, Shigure, Harusame and Samidare in your fleet.",
+        "desc": "Have Shiratsuyu Kai as flagship, Shigure, Harusame, and Samidare in your fleet.",
         "unlock": [ 808 ]
     },
     "173":{
@@ -419,14 +419,14 @@
     },
     "174":{
         "code": "A69",
-        "name": "Organise a New Torpedo Squadron",
+        "name": "Organise a New Torpedo Squadron!",
         "desc": "Have a CL/CLT/CT as the flagship and 4 DD in any of your fleets.",
         "unlock": [ 817 ]
     },
     "175": {
         "code": "A70",
         "name": "Reorganise the New 8th Destroyer Division!",
-        "desc": "Have Asashio Kai Ni (or Kai Ni D) as flagship, Michishio, Ooshio and Arashio in your fleet."
+        "desc": "Have Asashio Kai Ni (or Kai Ni D) as flagship, Michishio, Ooshio, and Arashio in your fleet."
     },
     "176": {
         "code": "A71",
@@ -436,7 +436,7 @@
     "177": {
         "code": "A72",
         "name": "Organize the 19th Destroyer Division!",
-        "desc": "Have Isonami, Uranami, Ayanami and Shikinami in your fleet."
+        "desc": "Have Isonami, Uranami, Ayanami, and Shikinami in your fleet."
     },
     
     "202": {
@@ -498,13 +498,13 @@
     },
     "219": {
         "code": "B11",
-        "name": "Sortie the Mikawa Fleet!",
-        "desc": "Deploy a fleet with Choukai, Aoba, Kako, Furutaka, Tenryuu and another fast ship."
+        "name": "Sortie the Mikawa Fleet",
+        "desc": "Sortie Choukai, Aoba, Kako, Furutaka, and Tenryuu, with one additional fast ship to any map"
     },
     "222": {
         "code": "B12",
-        "name": "Sortie the Destroyer Division 6!",
-        "desc": "Deploy a fleet with ONLY Akatsuki, Hibiki, Inazuma, and Ikazuchi."
+        "name": "Sortie the 6th Destroyer Division",
+        "desc": "Sortie a fleet with ONLY Akatsuki, Hibiki, Inazuma, and Ikazuchi"
     },
     "223": {
         "code": "B13",
@@ -1392,7 +1392,7 @@
     },
     "623": {
         "code": "F20",
-        "name": "Organize the Elite Type 97 Torpedo Bomber Force",
+        "name": "Organize the Elite Type 97 Torpedo Bomber Force!",
         "desc": "Have Shoukaku or Akagi as flagship and then scrap 3 Type 97 Torpedo Bomber"
     },
     "624": {
