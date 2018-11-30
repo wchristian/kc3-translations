@@ -44,31 +44,31 @@
     "108": {
         "code": "A8",
         "name": "Form the Tenryuu-class!",
-        "desc": "Have Tenryuu (\u5929\u9f8d) and Tatsuta (\u9f8d\u7530) in your main fleet.",
+        "desc": "Have Tenryuu and Tatsuta in your main fleet.",
         "unlock": [ 111 ]
     },
     "109": {
         "code": "A14",
         "name": "Form the Sendai-class!",
-        "desc": "Have Sendai (\u5ddd\u5185), Jintsuu (\u795e\u901a) and Naka (\u90a3\u73c2) in your main fleet.",
+        "desc": "Have Sendai, Jintsuu and Naka in your main fleet.",
         "unlock": [ 110, 704 ]
     },
     "110": {
         "code": "A15",
         "name": "Form the Myoukou-class!",
-        "desc": "Have Myoukou (\u5999\u9ad8), Nachi (\u90a3\u667a), Ashigara (\u8db3\u67c4) and Haguro (\u7fbd\u9ed2) in your main fleet.",
+        "desc": "Have Myoukou, Nachi, Ashigara and Haguro in your main fleet.",
         "unlock": [ 118 ]
     },
     "111": {
         "code": "A17",
         "name": "Form the Fusou-class!",
-        "desc": "Have Fusou (\u6276\u6851) and Yamashiro (\u5c71\u57ce) in your main fleet.",
+        "desc": "Have Fusou and Yamashiro in your main fleet.",
         "unlock": [ 112 ]
     },
     "112": {
         "code": "A18",
         "name": "Form the Ise-class!",
-        "desc": "Have Ise (\u4f0a\u52e2) and Hyuuga (\u65e5\u5411) in your main fleet.",
+        "desc": "Have Ise and Hyuuga in your main fleet.",
         "unlock": [ 153 ]
     },
     "113": {
@@ -80,7 +80,7 @@
     "114": {
         "code": "A19",
         "name": "Form the Nagumo Task Force!",
-        "desc": "Have ONLY Akagi (\u8d64\u57ce), Kaga (\u52a0\u8cc0), Hiryuu (\u98db\u9f8d) and Souryuu (\u84bc\u9f8d) in your main fleet.",
+        "desc": "Have ONLY Akagi, Kaga, Hiryuu and Souryuu in your main fleet.",
         "unlock": [ 625 ]
     },
     "115": {
@@ -104,43 +104,43 @@
     "118": {
         "code": "A16",
         "name": "Form the Kongou-class!",
-        "desc": "Have Kongou (\u91d1\u525b), Hiei (\u6bd4\u53e1), Haruna (\u699b\u540d) and Kirishima (\u9727\u5cf6) in your main fleet.",
+        "desc": "Have Kongou, Hiei, Haruna and Kirishima in your main fleet.",
         "unlock": [ 611 ]
     },
     "119": {
         "code": "A20",
         "name": "Form the Mikawa Fleet!",
-        "desc": "Have Choukai (\u9ce5\u6d77), Aoba (\u9752\u8449), Kako (\u52a0\u53e4), Furutaka (\u53e4\u9df9), Tenryuu (\u5929\u9f8d) and a FAST speed ship in your main fleet.",
+        "desc": "Have Choukai, Aoba, Kako, Furutaka, Tenryuu and a FAST speed ship in your main fleet.",
         "unlock": [ 121, 219 ]
     },
     "120": {
         "code": "A10",
         "name": "Form the Destroyer Division 6!",
-        "desc": "Have ONLY Akatsuki (\u6681), Hibiki (\u97ff), Inazuma (\u96f7) and Ikazuchi (\u96fb) in your main fleet.",
+        "desc": "Have ONLY Akatsuki, Hibiki, Inazuma and Ikazuchi in your main fleet.",
         "unlock": [ 128, 222, 274 ]
     },
     "121": {
         "code": "A21",
         "name": "Form the Cruiser Division 4!",
-        "desc": "Have Atago (\u611b\u5b95), Takao (\u9ad8\u96c4), Choukai (\u9ce5\u6d77) and Maya (\u6469\u8036) in your main fleet.",
+        "desc": "Have Atago, Takao, Choukai and Maya in your main fleet.",
         "unlock": [ 122, 124, 125, 127, 129, 223 ]
     },
     "122": {
         "code": "A22",
         "name": "Form the Nishimura Fleet!",
-        "desc": "Have Fusou (\u6276\u6851), Yamashiro (\u5c71\u57ce), Mogami (\u6700\u4e0a) and Shigure (\u6642\u96e8) in your main fleet.",
+        "desc": "Have Fusou, Yamashiro, Mogami and Shigure in your main fleet.",
         "unlock": [ 123, 126, 224 ]
     },
     "123": {
         "code": "A23",
         "name": "Form the Carrier Division 5!",
-        "desc": "Have Shoukaku (\u7fd4\u9db4), Zuikaku (\u745e\u9db4) and 2 DD in your main fleet.",
+        "desc": "Have Shoukaku, Zuikaku and 2 DD in your main fleet.",
         "unlock": [ 143, 148, 161, 225 ]
     },
     "124": {
         "code": "A24",
         "name": "Form the New Mikawa Fleet!",
-        "desc": "Have Choukai (\u9ce5\u6d77), Aoba (\u9752\u8449), Kinugasa (\u8863\u7b20), Kako (\u52a0\u53e4), Furutaka (\u53e4\u9df9) and Tenryuu (\u5929\u9f8d) in your main fleet.",
+        "desc": "Have Choukai, Aoba, Kinugasa, Kako, Furutaka and Tenryuu in your main fleet.",
         "unlock": [ 227 ]
     },
     "125": {
@@ -164,37 +164,37 @@
     "128": {
         "code": "A28",
         "name": "Form the Cruiser Division 6!",
-        "desc": "Have Furutaka (\u53e4\u9df9), Kako(\u52a0\u53e4), Aoba (\u9752\u8449) and Kinugasa (\u8863\u7b20) in your main fleet.",
+        "desc": "Have Furutaka, Kako, Aoba and Kinugasa in your main fleet.",
         "unlock": [ 138, 233 ]
     },
     "129": {
         "code": "A29",
         "name": "Form the 5th Fleet!",
-        "desc": "Have Nachi (\u90a3\u667a), Ashigara (\u8db3\u67c4), Tama (\u591a\u6469), and Kiso (\u6728\u66fe) in your fleet.",
+        "desc": "Have Nachi, Ashigara, Tama, and Kiso in your fleet.",
         "unlock": [ 130 ]
     },
     "130": {
         "code": "A30",
         "name": "Form the Torpedo Squadron 1!",
-        "desc": "Have Abukuma (\u963f\u6b66\u9688), Akebono (\u66d9), Ushio (\u6f6e), Kasumi (\u971e) and Shiranui (\u4e0d\u77e5\u706b) in your fleet.",
+        "desc": "Have Abukuma, Akebono, Ushio, Kasumi and Shiranui in your fleet.",
         "unlock": [ 410 ]
     },
     "131": {
         "code": "A31",
         "name": "Form the Destroyer Division 8!",
-        "desc": "Have Asashio (\u671d\u6f6e), Michishio (\u6e80\u6f6e), Ooshio (\u5927\u6f6e) and Arashio (\u8352\u6f6e) in your fleet.",
+        "desc": "Have Asashio, Michishio, Ooshio and Arashio in your fleet.",
         "unlock": [ 133, 239 ]
     },
     "132": {
         "code": "A32",
         "name": "Form the Destroyer Division 18!",
-        "desc": "Have ONLY Kasumi (\u971e), Arare (\u9730), Kagerou (\u967d\u708e) and Shiranui (\u4e0d\u77e5\u706b) in your fleet.",
+        "desc": "Have ONLY Kasumi, Arare, Kagerou and Shiranui in your fleet.",
         "unlock": [ 144, 149, 240 ]
     },
     "133": {
         "code": "A33",
         "name": "Form the Destroyer Division 30 (First Generation)!",
-        "desc": "Have ONLY Mutsuki (\u7766\u6708), Kisaragi (\u5982\u6708), Yayoi (\u5f25\u751f) and Mochizuki (\u671b\u6708) in your fleet.",
+        "desc": "Have ONLY Mutsuki, Kisaragi, Yayoi and Mochizuki in your fleet.",
         "unlock": [ 136, 244 ]
     },
     "134": {
@@ -212,19 +212,19 @@
     "136": {
         "code": "A34",
         "name": "Form the 30th Destroyer Fleet (Second Generation)",
-        "desc": "Have only Mutsuki (\u7766\u6708), Yayoi (\u5f25\u751f), Uzuki (\u536f\u6708) and Mochizuki (\u671b\u6708) in your fleet.",
+        "desc": "Have only Mutsuki, Yayoi, Uzuki and Mochizuki in your fleet.",
         "unlock": [ 152, 248 ]
     },
     "137": {
         "code": "A35",
         "name": "Form the 5th Fleet",
-        "desc": "Have Myoukou (\u5999\u9ad8), Nachi (\u90a3\u667a) and Haguro (\u7fbd\u9ed2) in your fleet.",
+        "desc": "Have Myoukou, Nachi and Haguro in your fleet.",
         "unlock": [ 140, 147, 249, 418 ]
     },
     "138": {
         "code": "A36",
         "name": "Form the new 2nd Carrier Division",
-        "desc": "Have Hiryuu Kai Ni (\u98db\u9f8d\u6539\u4e8c, as the flagship), Souryuu (\u84bc\u9f8d) and 2 destroyers in your fleet.",
+        "desc": "Have Hiryuu Kai Ni as the flagship, Souryuu and 2 destroyers in your fleet.",
         "unlock": [ 250 ]
     },
     "139": {
@@ -241,7 +241,7 @@
     "141": {
         "code": "A39",
         "name": "Reorganise the Strengthened 2nd Carrier Division",
-        "desc": "Have Souryuu Kai-2 (\u84bc\u9f8d\u6539\u4e8c) as flagship with Hiryuu Kai-2 (\u98db\u9f8d\u6539\u4e8c) and 2 destroyers in your fleet.",
+        "desc": "Have Souryuu Kai-2 as flagship with Hiryuu Kai-2 and 2 destroyers in your fleet.",
         "unlock": [ 251, 627 ]
     },
     "142": {
@@ -252,7 +252,7 @@
     "143": {
         "code": "A41",
         "name": "Deploy a New Standard Aircraft Carrier",
-        "desc": "Have Unryuu (\u96f2\u9f8d) as your flagship.",
+        "desc": "Have Unryuu as your flagship.",
         "unlock": [ 253 ]
     },
     "144": {
@@ -270,37 +270,37 @@
     "146": {
         "code": "A45",
         "name": "Prepare the Arsenal for Renovations",
-        "desc": "Have Akashi (\u660e\u77f3) as your flagship in your main fleet.",
+        "desc": "Have Akashi as your flagship in your main fleet.",
         "unlock": [ 261, 618 ]
     },
     "147": {
         "code": "A44",
         "name": "Organise the Nishimura Fleet",
-        "desc": "Have Fusou (\u6276\u6851), Yamashiro (\u5c71\u57ce), Mogami (\u6700\u4e0a), Shigure (\u6642\u96e8) and Michishio (\u6e80\u6f6e) in your main fleet.",
+        "desc": "Have Fusou, Yamashiro, Mogami, Shigure and Michishio in your main fleet.",
         "unlock": [ 262 ]
     },
     "148": {
         "code": "A46",
         "name": "Organise the Counterattack Squadron",
-        "desc": "Have Kasumi (\u971e) as the flagship, Ashigara (\u8db3\u67c4), 1 CL and 3 more DDs in your main fleet.",
+        "desc": "Have Kasumi as the flagship, Ashigara, 1 CL and 3 more DDs in your main fleet.",
         "unlock": [ 266 ]
     },
     "149": {
         "code": "A47",
         "name": "Organise the 11th Destroyer Division",
-        "desc": "Have the 4 Special-type destroyers: Fubuki (\u5439\u96ea), Shirayuki(\u767d\u96ea), Hatsuyuki (\u521d\u96ea) and Murakumo(\u53e2\u96f2) in your main fleet. One of them should be the flagship.",
+        "desc": "Have the 4 Special-type destroyers: Fubuki, Shirayuki, Hatsuyuki and Murakumo in your main fleet. One of them should be the flagship.",
         "unlock": [ 267, 268 ]
     },
     "150": {
         "code": "A48",
         "name": "Organise the 21st Destroyer Division",
-        "desc": "Have only Hatsuharu (\u521d\u6625), Nenohi (\u5b50\u65e5), Wakaba (\u82e5\u8449) and Hatsushimo (\u521d\u971c) in your main fleet.",
+        "desc": "Have only Hatsuharu, Nenohi, Wakaba and Hatsushimo in your main fleet.",
         "unlock": [ 269 ]
     },
     "151": {
         "code": "A49",
         "name": "Organise the 22nd Destroyer Division",
-        "desc": "Have only Satsuki (\u7690\u6708), Fumizuki (\u6587\u6708), Nagatsuki (\u9577\u6708) and 1 more DD in your main fleet.",
+        "desc": "Have only Satsuki, Fumizuki, Nagatsuki and 1 more DD in your main fleet.",
         "unlock": [ 270 ]
     },
     "152": {
@@ -402,13 +402,13 @@
     "171": {
         "code": "A66",
         "name": "Form the 31st Division (First Generation)",
-        "desc": "Form an ASW Mobile Fleet with Isuzu Kai Ni (\u4E94\u5341\u9234\u6539\u4E8C) as Flagship and which contains both Satsuki Kai Ni (\u7690\u6708\u6539\u4E8C) and Uzuki Kai (\u536F\u6708\u6539)",
+        "desc": "Form an ASW Mobile Fleet with Isuzu Kai Ni as Flagship and which contains both Satsuki Kai Ni and Uzuki Kai",
         "unlock": [ 807 ]
     },
     "172":{
         "code": "A67",
         "name": "Form the 27th Destroyer Division (Second Generation)",
-        "desc": "Have Shiratsuyu Kai (\u767D\u9732\u6539) as flagship, Shigure (\u6642\u96E8), Harusame (\u6625\u96E8) and Samidare (\u4E94\u6708\u96E8) in your fleet",
+        "desc": "Have Shiratsuyu Kai as flagship, Shigure, Harusame and Samidare in your fleet",
         "unlock": [ 808 ]
     },
     "173":{
@@ -559,7 +559,7 @@
     "244": {
         "code": "B22",
         "name": "Deploy the Destroyer Division 30 (First Generation)",
-        "desc": "Deploy a fleet that consists of Mutsuki (\u7766\u6708), Kisaragi (\u5982\u6708), Yayoi (\u5f25\u751f), Mochizuki (\u671b\u6708) and up to 2 additional DDs or 1 DD with 1 CL as flagship to world 3-2 and encounter the boss. C rank or above is required."
+        "desc": "Deploy a fleet that consists of Mutsuki, Kisaragi, Yayoi, Mochizuki and up to 2 additional DDs or 1 DD with 1 CL as flagship to world 3-2 and encounter the boss. C rank or above is required."
     },
     "245": {
         "code": "WB01",
@@ -587,23 +587,23 @@
     "250": {
         "code": "B25",
         "name": "Deploy the 2nd Carrier Division",
-        "desc": "Deploy Hiryuu Kai Ni (\u98db\u9f8d\u6539\u4e8c) as the flagship, Souryuu (\u84bc\u9f8d) and two destroyers to World 5-2. You may add 2 other ships. Score an S rank victory against the boss.",
+        "desc": "Deploy Hiryuu Kai Ni as the flagship, Souryuu and two destroyers to World 5-2. You may add 2 other ships. Score an S rank victory against the boss.",
         "unlock": [ 141, 614, 615 ]
     },
     "251": {
         "code": "B26",
         "name": "Deploy the Elite 2nd Carrier Division",
-        "desc": "Deploy Souryuu Kai Ni (\u84bc\u9f8d\u6539\u4e8c) as the flagship, Hiryuu Kai Ni (\u98db\u9f8d\u6539\u4e8c) and two destroyers to World 4-3. You may add 2 other ships. Score an S rank victory against the boss."
+        "desc": "Deploy Souryuu Kai Ni as the flagship, Hiryuu Kai Ni and two destroyers to World 4-3. You may add 2 other ships. Score an S rank victory against the boss."
     },
     "252": {
         "code": "B27",
         "name": "Deploy a Haruna-led Fleet",
-        "desc": "Deploy a fleet with Haruna Kai Ni (\u699b\u540d\u6539\u4e8c) as the flagship and up to 5 additional ships to World 5-1 and score an S rank victory against the boss."
+        "desc": "Deploy a fleet with Haruna Kai Ni as the flagship and up to 5 additional ships to World 5-1 and score an S rank victory against the boss."
     },
     "253": {
         "code": "B28",
         "name": "Deploy the 601 Air Group",
-        "desc": "Deploy a fleet with Unryuu Kai (\u96f2\u9f8d\u6539) as the flagship to World 5-2 and score an S rank victory against the boss.",
+        "desc": "Deploy a fleet with Unryuu Kai as the flagship to World 5-2 and score an S rank victory against the boss.",
         "unlock": [ 616 ]
     },
     "254": {
@@ -620,7 +620,7 @@
     "258": {
         "code": "B31",
         "name": "Sortie the 2nd Squadron",
-        "desc": "Deploy Nagato (\u9577\u9580), Mutsu (\u9678\u5965), Fusou (\u6276\u6851), Yamashiro (\u5c71\u57ce) and up to 2 additional ships to World 4-2. Score two S rank victories at the boss node.",
+        "desc": "Deploy Nagato, Mutsu, Fusou, Yamashiro and up to 2 additional ships to World 4-2. Score two S rank victories at the boss node.",
         "unlock": [ 145 ]
     },
     "260": {
@@ -632,45 +632,45 @@
     "262": {
         "code": "B33",
         "name": "Deploy the Nishimura Fleet in the Southern Waters",
-        "desc": "Deploy Fusou (\u6276\u6851), Yamashiro (\u5c71\u57ce), Mogami (\u6700\u4e0a), Shigure (\u6642\u96e8) and Michishio (\u6e80\u6f6e) (you may also add another ship) to World 5-1 and score an S rank victory at the boss node."
+        "desc": "Deploy Fusou, Yamashiro, Mogami, Shigure and Michishio (you may also add another ship) to World 5-1 and score an S rank victory at the boss node."
     },
     "263": {
         "code": "B34",
         "name": "Deploy the Sixth Squadron to the Southwestern Waters",
-        "desc": "Deploy Furutaka (\u53e4\u9df9), Kako (\u52a0\u53e4), Aoba (\u9752\u8449), Kinugasa (\u8863\u7b20) and up to two additional ships to World 2-5 and score an S rank victory at the boss node."
+        "desc": "Deploy Furutaka, Kako, Aoba, Kinugasa and up to two additional ships to World 2-5 and score an S rank victory at the boss node."
     },
     "267": {
         "code": "B35",
         "name": "Deploy the 11th Destroyer Division",
-        "desc": "Deploy Fubuki (\u5439\u96ea), Shirayuki(\u767d\u96ea), Hatsuyuki (\u521d\u96ea), Murakumo(\u53e2\u96f2) and up to 2 additional ships to World 2-3 and score a victory at the boss node.",
+        "desc": "Deploy Fubuki, Shirayuki, Hatsuyuki, Murakumo and up to 2 additional ships to World 2-3 and score a victory at the boss node.",
         "unlock": [ 150 ]
     },
     "268": {
         "code": "B36",
         "name": "11th Destroyer Division's Anti-Submarine Patrol",
-        "desc": "Deploy Fubuki (\u5439\u96ea), Shirayuki(\u767d\u96ea), Hatsuyuki (\u521d\u96ea) and Murakumo(\u53e2\u96f2) to World 1-5 and get a score of at least C at the boss node."
+        "desc": "Deploy Fubuki, Shirayuki, Hatsuyuki and Murakumo to World 1-5 and get a score of at least C at the boss node."
     },
     "269": {
         "code": "B37",
         "name": "Deploy the 21st Destroyer Division",
-        "desc": "Deploy Hatsuharu (\u521d\u6625), Nenohi (\u5b50\u65e5), Wakaba (\u82e5\u8449) and Hatsushimo (\u521d\u971c) and up to 2 additional ships to World 3-1 and score an S rank victory at the boss node.",
+        "desc": "Deploy Hatsuharu, Nenohi, Wakaba and Hatsushimo and up to 2 additional ships to World 3-1 and score an S rank victory at the boss node.",
         "unlock": [ 271 ]
     },
     "270": {
         "code": "B39",
         "name": "Deploy the 22nd Destroyer Division",
-        "desc": "Deploy Satsuki (\u7690\u6708), Fumizuki (\u6587\u6708), Nagatsuki (\u9577\u6708), 1 more DD and up to two additional ships to World 1-4 and score an S rank victory at the boss node."
+        "desc": "Deploy Satsuki, Fumizuki, Nagatsuki, 1 more DD and up to two additional ships to World 1-4 and score an S rank victory at the boss node."
     },
     "271": {
         "code": "B38",
         "name": "Deploy Nachi's Squadron",
-        "desc": "Sortie a fleet with Nachi (\u90a3\u667a) as flagship, Hatsushimo (\u521d\u971c), Kasumi (\u971e), Ushio (\u6f6e), Akebono (\u66d9) and one additional ship to world 2-2 and score an S rank victory at the boss node.",
+        "desc": "Sortie a fleet with Nachi as flagship, Hatsushimo, Kasumi, Ushio, Akebono and one additional ship to world 2-2 and score an S rank victory at the boss node.",
         "unlock": [ 151 ]
     },
     "272": {
         "code": "B40",
         "name": "Deploy the Remodelled Anti-Aircraft Heavy Cruiser",
-        "desc": "Sortie a fleet with Maya (\u6469\u8036) Kai or Kai2, 1 CL, 2 DD and up to two additional ships to World 2-3 and score an S rank victory at the boss node.",
+        "desc": "Sortie a fleet with Maya Kai or Kai2, 1 CL, 2 DD and up to two additional ships to World 2-3 and score an S rank victory at the boss node.",
         "unlock": [ 417 ]
     },
     "273": {
@@ -681,7 +681,7 @@
     "274": {
         "code": "B42",
         "name": "6th Destroyer Division's Anti-Submarine Patrol",
-        "desc": "Deploy Akatsuki, Hibiki (\u97ff or \u0412\u0435\u0440\u043d\u044b\u0439), Inazuma and Ikazuchi to 1-5. C-Rank+ the boss",
+        "desc": "Deploy Akatsuki, Hibiki, Inazuma and Ikazuchi to 1-5. C-Rank+ the boss",
         "unlock": [ 153, 277 ]
     },
     "275": {
