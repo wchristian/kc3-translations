@@ -306,109 +306,109 @@
     "152": {
         "code": "A50",
         "name": "Organise the New Edition of the Mikawa Fleet",
-        "desc": "Have Choukai Kai2 as the flagship and any five of Aoba, Kinugasa, Kako, Furutaka, Tenryuu, Yuubari in your main fleet",
+        "desc": "Have Choukai Kai2 as the flagship and any five of Aoba, Kinugasa, Kako, Furutaka, Tenryuu, Yuubari in your main fleet.",
         "unlock": [ 162, 307 ]
     },
     "153": {
         "code": "A51",
         "name": "Reorganize the 18th Squadron!",
-        "desc": "Have Tenryuu, Tatsuta and 2 or more other ships in your fleet",
+        "desc": "Have Tenryuu, Tatsuta and 2 or more other ships in your fleet.",
         "unlock": [ 275 ]
     },
     "154": {
         "code": "A52",
         "name": "Organize the surface attack fleet!",
-        "desc": "Have Hiei, Kirishima, Nagara, Akatsuki, Ikazuchi, Inazuma in your fleet",
+        "desc": "Have Hiei, Kirishima, Nagara, Akatsuki, Ikazuchi, Inazuma in your fleet.",
         "unlock": [ 276 ]
     },
     "155": {
         "code": "A53",
         "name": "Organize the new 6th Destroyer Division!",
-        "desc": "Have Akatsuki Kai2 as Flagship with Hibiki/Bep, Ikazuchi, Inazuma in your fleet",
+        "desc": "Have Akatsuki Kai2 as Flagship with Hibiki/Bep, Ikazuchi, Inazuma in your fleet.",
         "unlock": [ 277 ]
     },
     "156": {
         "code": "A54",
         "name": "1st Torpedo Squadron, Prepare for a Rush to the Northern Sea",
-        "desc": "Have Abukuma as flagship with Hibiki/Вер, Hatsushimo, Wakaba, Samidare and Shimakaze in your main fleet",
+        "desc": "Have Abukuma as flagship with Hibiki/Вер, Hatsushimo, Wakaba, Samidare and Shimakaze in your main fleet.",
         "unlock": [ 278 ]
     },
     "157": {
         "code": "A55",
         "name": "1st Torpedo Squadron, Prepare for Another Rush to the Northern Sea",
-        "desc": "Have Abukuma Kai Ni as flagship with Hibiki/Вер, Yuugumo, Naganami, Akigumo and Shimakaze in your main fleet",
+        "desc": "Have Abukuma Kai Ni as flagship with Hibiki/Вер, Yuugumo, Naganami, Akigumo and Shimakaze in your main fleet.",
         "unlock": [ 279 ]
     },
     "161": {
         "code": "A56",
         "name": "Reorganize the 5th Carrier Division!",
-        "desc": "Have Shoukaku, Zuikaku, Oboro and Akigumo in your main fleet",
+        "desc": "Have Shoukaku, Zuikaku, Oboro and Akigumo in your main fleet.",
         "unlock": [ 287 ]
     },
     "162": {
         "code": "A57",
         "name": "Prepare the New 21st Squadron for Sortie",
-        "desc": "Have Nachi Kai Ni, Ashigara Kai Ni, Tama and Kiso in your main fleet",
+        "desc": "Have Nachi Kai Ni, Ashigara Kai Ni, Tama and Kiso in your main fleet.",
         "unlock": [ 288 ]
     },
     "163": {
         "code": "A58",
         "name": "Organize the 16th Squadron (First Generation)",
-        "desc": "Have Ashigara as flagship with Kuma and Nagara in your main fleet",
+        "desc": "Have Ashigara as flagship with Kuma and Nagara in your main fleet.",
         "unlock": [ 289 ]
     },
     "164": {
         "code": "A59",
         "name": "Organize the 3rd Carrier Division",
-        "desc": "Have Zuikaku Kai as flagship, Zuihou, Chitose and Chiyoda (both as CVL, not AV) in your main fleet",
+        "desc": "Have Zuikaku Kai as flagship, Zuihou, Chitose and Chiyoda (both as CVL, not AV) in your main fleet.",
         "unlock": [ 293, 627 ]
     },
     "165": {
         "code": "A60",
         "name": "Organize the 4th Carrier Division",
-        "desc": "Have Ise Kai and Hyuuga Kai in your main fleet",
+        "desc": "Have Ise Kai and Hyuuga Kai in your main fleet.",
         "unlock": [ 166 ]
     },
     "166": {
         "code": "A61",
         "name": "Organize Ozawa's Fleet",
-        "desc": "Have Zuikaku Kai as flagship, Zuihou Kai, Chitose and Chiyoda (both as CVL), Ise Kai and Hyuuga Kai in your main fleet",
+        "desc": "Have Zuikaku Kai as flagship, Zuihou Kai, Chitose and Chiyoda (both as CVL), Ise Kai and Hyuuga Kai in your main fleet.",
         "unlock": [ 294 ]
     },
     "167": {
         "code": "A62",
         "name": "Organize the New Carrier Division",
-        "desc": "Have Zuikaku Kai Ni, Shoukaku Kai Ni and two Destroyers in your fleet",
+        "desc": "Have Zuikaku Kai Ni, Shoukaku Kai Ni and two Destroyers in your fleet.",
         "unlock": [ 633 ]
     },
     "168": {
         "code": "A63",
         "name": "Organize the 16th Squadron (Second Generation)",
-        "desc": "Have Natori as flagship, Isuzu and Kinu in your fleet",
+        "desc": "Have Natori as flagship, Isuzu and Kinu in your fleet.",
         "unlock": [ 295 ]
     },
     "169": {
         "code": "A64",
         "name": "Organize the New Carrier Division",
-        "desc": "Have 2 CV, 2 BBV/CAV and 2 DD in your fleet",
+        "desc": "Have 2 CV, 2 BBV/CAV and 2 DD in your fleet.",
         "unlock": [ 296 ]
     },
     "170": {
         "code": "A65",
         "name": "Strengthen the Surface Counterattack Fleet",
-        "desc": "Have Kasumi as flagship, Ashigara, Ooyodo, Asashimo and Kiyoshimo in your fleet",
+        "desc": "Have Kasumi as flagship, Ashigara, Ooyodo, Asashimo and Kiyoshimo in your fleet.",
         "unlock": [ 297 ]
     },
     "171": {
         "code": "A66",
         "name": "Form the 31st Division (First Generation)",
-        "desc": "Form an ASW Mobile Fleet with Isuzu Kai Ni as Flagship and which contains both Satsuki Kai Ni and Uzuki Kai",
+        "desc": "Form an ASW Mobile Fleet with Isuzu Kai Ni as Flagship and which contains both Satsuki Kai Ni and Uzuki Kai.",
         "unlock": [ 807 ]
     },
     "172":{
         "code": "A67",
         "name": "Form the 27th Destroyer Division (Second Generation)",
-        "desc": "Have Shiratsuyu Kai as flagship, Shigure, Harusame and Samidare in your fleet",
+        "desc": "Have Shiratsuyu Kai as flagship, Shigure, Harusame and Samidare in your fleet.",
         "unlock": [ 808 ]
     },
     "173":{
@@ -681,7 +681,7 @@
     "274": {
         "code": "B42",
         "name": "6th Destroyer Division's Anti-Submarine Patrol",
-        "desc": "Deploy Akatsuki, Hibiki, Inazuma and Ikazuchi to 1-5. C-Rank+ the boss",
+        "desc": "Deploy Akatsuki, Hibiki, Inazuma and Ikazuchi to 1-5. C-Rank+ the boss.",
         "unlock": [ 153, 277 ]
     },
     "275": {
@@ -702,7 +702,7 @@
     "278": {
         "code": "B46",
         "name": "Rush the 1st Torpedo Squadron to Operation KE",
-        "desc": "Sortie Abukuma as flagship with Hibiki/Вер, Hatsushimo, Wakaba, Samidare and Shimakaze to 3-2 and B-Rank+ the boss",
+        "desc": "Sortie Abukuma as flagship with Hibiki/Вер, Hatsushimo, Wakaba, Samidare and Shimakaze to 3-2 and B-Rank+ the boss.",
         "unlock": [ 309 ]
     },
     "279": {
@@ -723,7 +723,7 @@
     "287": {
         "code": "B50",
         "name": "Sortie the 5th Carrier Division to the Southern Sea Coral Islands",
-        "desc": "Sortie Shoukaku, Zuikaku, Oboro, Akigumo and up to 2 additional ships to W5-2 and S-Rank the boss",
+        "desc": "Sortie Shoukaku, Zuikaku, Oboro, Akigumo and up to 2 additional ships to W5-2 and S-Rank the boss.",
         "unlock": [ 169, 622, 623, 420 ]
     },
     "288": {
@@ -734,31 +734,31 @@
     "289": {
         "code": "B52",
         "name": "Sortie the 16th Squadron (First Generation)",
-        "desc": "Sortie Ashigara as flagship, Kuma, Nagara and up to 3 additional ships to W2-2 and S-Rank the boss",
+        "desc": "Sortie Ashigara as flagship, Kuma, Nagara and up to 3 additional ships to W2-2 and S-Rank the boss.",
         "unlock": [ 168 ]
     },
     "293": {
         "code": "B53",
         "name": "3rd Carrier Division: defend the Nansei Islands",
-        "desc": "Sortie Zuikaku Kai as flagship, Zuihou, Chitose and Chiyoda (both as CVL) (+2 more ships) to 1-4 and score an S-rank the boss",
+        "desc": "Sortie Zuikaku Kai as flagship, Zuihou, Chitose and Chiyoda (both as CVL) (+2 more ships) to 1-4 and score an S-rank the boss.",
         "unlock": [ 165 ]
     },
     "294": {
         "code": "B54",
         "name": "Sortie the Ozawa's fleet",
-        "desc": "Sortie Zuikaku Kai as flagship, Zuihou Kai, Chitose and Chiyoda (both as CVL), Ise Kai and Hyuuga Kai to World 2-4 and score an S-rank victory at the boss",
+        "desc": "Sortie Zuikaku Kai as flagship, Zuihou Kai, Chitose and Chiyoda (both as CVL), Ise Kai and Hyuuga Kai to World 2-4 and score an S-rank victory at the boss.",
         "unlock": [ 626 ]
     },
     "295": {
         "code": "B55",
         "name": "Sortie the 16th Squadron (Second Generation)",
-        "desc": "Sortie Natori as flagship, Isuzu , Kinu and up to 3 additional ships to World 2-3 and score an S-rank at the boss",
+        "desc": "Sortie Natori as flagship, Isuzu , Kinu and up to 3 additional ships to World 2-3 and score an S-rank at the boss.",
         "unlock": [ 169 ]
     },
     "296": {
         "code": "B56",
         "name": "Sortie the New Carrier Division to the North",
-        "desc": "Sortie 2 CV, 2 BBV/CAV and 2 DD to W3-3 and score an S-rank at the boss",
+        "desc": "Sortie 2 CV, 2 BBV/CAV and 2 DD to W3-3 and score an S-rank at the boss.",
         "unlock": [ 170, 641 ]
     },
     "297": {
@@ -769,13 +769,13 @@
     "805": {
         "code": "B58",
         "name": "Send Kasumi to Patrol the Northern Sea",
-        "desc": "Sortie a fleet with Kasumi Kai Ni as flagship, 3 DD and up to 2 additional ships to World 3-1 and S-Rank at the boss",
+        "desc": "Sortie a fleet with Kasumi Kai Ni as flagship, 3 DD and up to 2 additional ships to World 3-1 and S-Rank at the boss.",
         "unlock": [ 806 ]
     },
     "806": {
         "code": "B59",
         "name": "Sortie Kasumi and Defeat the Enemy Fleet",
-        "desc": "Sortie a fleet with Kasumi Kai Ni as flagship, 2 DD and up to 3 additional ships to World 2-5 and S-Rank at the boss",
+        "desc": "Sortie a fleet with Kasumi Kai Ni as flagship, 2 DD and up to 3 additional ships to World 2-5 and S-Rank at the boss.",
         "unlock": [ 813 ]
     },
     "807": {
@@ -894,14 +894,14 @@
     "201": {
         "code": "Bd1",
         "name": "Daily Sortie 1",
-        "desc": "Defeat an abyssal fleet",
+        "desc": "Defeat an abyssal fleet.",
         "unlock": [ 216, 211, 212 ],
         "tracking": [ [0,1] ]
     },
     "216": {
         "code": "Bd2",
         "name": "Daily Sortie 2",
-        "desc": "Defeat the flagship of an abyssal fleet",
+        "desc": "Defeat the flagship of an abyssal fleet.",
         "unlock": [ 172, 210, 218, 214, 213, 311, 634, 810 ],
         "tracking": [ [0,1] ]
     },
@@ -920,27 +920,27 @@
     "218": {
         "code": "Bd5",
         "name": "Daily Sortie 5",
-        "desc": "Sink 3 abyssal transport ships",
+        "desc": "Sink 3 abyssal transport ships.",
         "unlock": [ 226, 220 ],
         "tracking": [ [0,3] ]
     },
     "212": {
         "code": "Bd6",
         "name": "Daily Sortie 6",
-        "desc": "Sink 5 abyssal transport ships",
+        "desc": "Sink 5 abyssal transport ships.",
         "tracking": [ [0,5] ]
     },
     "226": {
         "code": "Bd7",
         "name": "Daily Sortie 7",
-        "desc": "Defeat 5 boss nodes in World 2",
+        "desc": "Defeat 5 boss nodes in World 2.",
         "unlock": [ 230 ],
         "tracking": [ [0,5] ]
     },
     "230": {
         "code": "Bd8",
         "name": "Daily Sortie 8",
-        "desc": "Sink 6 abyssal submarines",
+        "desc": "Sink 6 abyssal submarines.",
         "tracking": [ [0,6] ]
     },
     
@@ -951,7 +951,7 @@
     "214": {
         "code": "Bw1",
         "name": "Weekly Sortie 1",
-        "desc": "Sortie 36x, Encounter 24 bosses, Win vs 12 bosses, 6 S-ranks",
+        "desc": "Sortie 36x, Encounter 24 bosses, Win vs 12 bosses, 6 S-ranks.",
         "unlock": [ 221 ],
         "tracking": [ [0,36], [0,24], [0,12], [0,6] ]
     },
@@ -965,27 +965,27 @@
     "213": {
         "code": "Bw3",
         "name": "Weekly Sortie 3",
-        "desc": "Sink 20 abyssal transport ships",
+        "desc": "Sink 20 abyssal transport ships.",
         "tracking": [ [0,20] ]
     },
     "221": {
         "code": "Bw4",
         "name": "Weekly Sortie 4",
-        "desc": "Sink 50 abyssal transport ships",
+        "desc": "Sink 50 abyssal transport ships.",
         "unlock": [ 261, 257, 264 ],
         "tracking": [ [0,50] ]
     },
     "228": {
         "code": "Bw5",
         "name": "Weekly Sortie 5",
-        "desc": "Sink 15 submarines",
+        "desc": "Sink 15 submarines.",
         "unlock": [ 229, 241, 613 ],
         "tracking": [ [0,15] ]
     },
     "229": {
         "code": "Bw6",
         "name": "Weekly Sortie 6",
-        "desc": "Defeat 12 boss nodes in World 4",
+        "desc": "Defeat 12 boss nodes in World 4.",
         "unlock": [ 242 ],
         "tracking": [ [0,12] ]
     },
@@ -1005,14 +1005,14 @@
     "243": {
         "code": "Bw9",
         "name": "Weekly Sortie 9",
-        "desc": "Sortie to [W5-2] and S-rank the boss node 2 times",
+        "desc": "Sortie to [W5-2] and S-rank the boss node 2 times.",
         "unlock": [ 809 ],
         "tracking": [ [0,2] ]
     },
     "261": {
         "code": "Bw10",
         "name": "Weekly Sortie 10",
-        "desc": "Sortie to [W1-5] and A-rank+ the boss node 3 times",
+        "desc": "Sortie to [W1-5] and A-rank+ the boss node 3 times.",
         "tracking": [ [0,3] ]
     },
     
@@ -1023,13 +1023,13 @@
     "249": {
         "code": "Bm1",
         "name": "Monthly Deploy the Fifth squadron",
-        "desc": "Deploy Myoukou, Nachi, Haguro, +3 ships to [W2-5]. S-rank the boss node",
+        "desc": "Deploy Myoukou, Nachi, Haguro, +3 ships to [W2-5]. S-rank the boss node.",
         "unlock": [ 265 ]
     },
     "256": {
         "code": "Bm2",
         "name": "Monthly Deploy a Submarine Fleet to World 6-1",
-        "desc": "Deploy to [W6-1] and obtain an S-rank the boss node 3 times",
+        "desc": "Deploy to [W6-1] and obtain an S-rank the boss node 3 times.",
         "tracking": [ [0,3] ]
     },
     "257": {
@@ -1045,14 +1045,14 @@
     "265": {
         "code": "Bm5",
         "name": "Monthly Escort Duty",
-        "desc": "Deploy a fleet to [W1-5] and A-rank+ the boss node 10 times",
+        "desc": "Deploy a fleet to [W1-5] and A-rank+ the boss node 10 times.",
         "unlock": [ 628 ],
         "tracking": [ [0,10] ]
     },
     "264": {
         "code": "Bm6",
         "name": "Monthly Sortie the Aircraft Carrier Task Force to the West",
-        "desc": "2 CV + 2 DD + 2 ships to [W4-2]. S-rank the boss node",
+        "desc": "2 CV + 2 DD + 2 ships to [W4-2]. S-rank the boss node.",
         "unlock": [ 266, 626, 822 ]
     },
     "266": {
@@ -1073,20 +1073,20 @@
     "303": {
         "code": "C2",
         "name": "Daily Exercises 1",
-        "desc": "Challenge 3 other fleets in practice mode",
+        "desc": "Challenge 3 other fleets in practice mode.",
         "unlock": [ 304, 302 ],
         "tracking": [ [0,3] ]
     },
     "304": {
         "code": "C3",
         "name": "Daily Exercises 2",
-        "desc": "Get 5 victories in practice mode within the same day",
+        "desc": "Get 5 victories in practice mode within the same day.",
         "tracking": [ [0,5] ]
     },
     "302": {
         "code": "C4",
         "name": "Weekly Exercises",
-        "desc": "(Weekly) Get 20 victories in practice mode",
+        "desc": "(Weekly) Get 20 victories in practice mode.",
         "tracking": [ [0,20] ]
     },
     "306": {
@@ -1098,31 +1098,31 @@
     "307": {
         "code": "C5",
         "name": "Improve the Efficiency of the Fleet",
-        "desc": "Get 3 victories in practice mode within the same day",
+        "desc": "Get 3 victories in practice mode within the same day.",
         "unlock": [ 273 ]
     },
     "308": {
         "code": "C6",
         "name": "Improve the Efficiency of the Fleet One More Time",
-        "desc": "Get 4 victories in practice mode within the same day",
+        "desc": "Get 4 victories in practice mode within the same day.",
         "unlock": [ 419 ]
     },
     "309": {
         "code": "C7",
         "name": "Extra Training in Preparation for Another Rush to the Northern Sea",
-        "desc": "Get 4 victories in practice mode within the same day",
+        "desc": "Get 4 victories in practice mode within the same day.",
         "unlock": [ 157 ]
     },
     "311": {
         "code": "C8",
         "name": "Elite Fleet Practice",
-        "desc": "Get 7 victories in Exercises within the same day",
+        "desc": "Get 7 victories in Exercises within the same day.",
         "tracking": [ [0,7] ]
     },
     "312": {
         "code": "C9",
         "name": "Landing Force Practice",
-        "desc": "Get 4 victories in Exercises within the same day",
+        "desc": "Get 4 victories in Exercises within the same day.",
         "tracking": [ [0,4] ],
         "unlock": [ 636 ]
     },
@@ -1141,38 +1141,38 @@
     "402": {
         "code": "D2",
         "name": "Daily Expeditions 1",
-        "desc": "Perform 3 successful expeditions",
+        "desc": "Perform 3 successful expeditions.",
         "unlock": [ 403 ],
         "tracking": [ [0,3] ]
     },
     "403": {
         "code": "D3",
         "name": "Daily Expeditions 2",
-        "desc": "Perform 10 successful expeditions",
+        "desc": "Perform 10 successful expeditions.",
         "tracking": [ [0,10] ]
     },
     "404": {
         "code": "D4",
         "name": "Weekly Expeditions",
-        "desc": "(Weekly) Perform 30 successful expeditions",
+        "desc": "(Weekly) Perform 30 successful expeditions.",
         "tracking": [ [0,30] ]
     },
     "405": {
         "code": "D5",
         "name": "The First Submarine Operation",
-        "desc": "Complete Expedition 30",
+        "desc": "Complete Expedition 30.",
         "unlock": [ 406 ]
     },
     "406": {
         "code": "D6",
         "name": "The Second Submarine Operation",
-        "desc": "Complete Expedition 30 one more time",
+        "desc": "Complete Expedition 30 one more time.",
         "unlock": [ 408 ]
     },
     "408": {
         "code": "D7",
         "name": "Continuation of Submarine Operations",
-        "desc": "Complete Expedition 30 two more times",
+        "desc": "Complete Expedition 30 two more times.",
         "unlock": [ 409 ]
     },
     "409": {
@@ -1183,20 +1183,20 @@
     "410": {
         "code": "D9",
         "name": "Weekly Expedition 2",
-        "desc": "(Weekly) Complete expedition 37 or 38",
+        "desc": "(Weekly) Complete expedition 37 or 38.",
         "unlock": [ 411, 420 ],
         "tracking": [ [0,1] ]
     },
     "412": {
         "code": "D10",
         "name": "Strengthen the Operation of the BBV",
-        "desc": "Complete expedition 23",
+        "desc": "Complete expedition 23.",
         "unlock": [ 247, 413 ]
     },
     "411": {
         "code": "D11",
         "name": "Weekly Expedition 3",
-        "desc": "(Weekly) Complete expedition 37 or 38 six more times",
+        "desc": "(Weekly) Complete expedition 37 or 38 six more times.",
         "tracking": [ [0,6] ]
     },
     "413": {
@@ -1207,13 +1207,13 @@
     "414": {
         "code": "D13",
         "name": "Blue Waters Submarine Operation",
-        "desc": "Complete expedition 39",
+        "desc": "Complete expedition 39.",
         "unlock": [ 415 ]
     },
     "415": {
         "code": "D14",
         "name": "Blue Waters Extended Submarine Operation",
-        "desc": "Complete expedition 39 two more times",
+        "desc": "Complete expedition 39 two more times.",
         "unlock": [ 272 ]
     },
     "416": {
@@ -1224,7 +1224,7 @@
     "417": {
         "code": "D16",
         "name": "Deploy the Decoy Task Force",
-        "desc": "Complete expedition 15",
+        "desc": "Complete expedition 15.",
         "unlock": [ 308 ]
     },
     "418": {
@@ -1240,7 +1240,7 @@
     "420": {
         "code": "D19",
         "name": "Enhance the Use of the Task Force",
-        "desc": "Complete Expeditions 35 and 26",
+        "desc": "Complete Expeditions 35 and 26.",
         "unlock": [ 624 ]
     },
     
@@ -1260,14 +1260,14 @@
     "503": {
         "code": "E3",
         "name": "Daily Repairs",
-        "desc": "Repair 5 ships",
+        "desc": "Repair 5 ships.",
         "unlock": [ 504 ],
         "tracking": [ [0,5] ]
     },
     "504": {
         "code": "E4",
         "name": "Daily Resupplies",
-        "desc": "Resupply your ships 15 times",
+        "desc": "Resupply your ships 15 times.",
         "tracking": [ [0,15] ]
     },
     
@@ -1285,7 +1285,7 @@
     "606": {
         "code": "F6",
         "name": "Daily Construction 1",
-        "desc": "Craft a ship",
+        "desc": "Craft a ship.",
         "unlock": [ 607 ],
         "tracking": [ [0,1] ]
     },
@@ -1299,20 +1299,20 @@
      "608": {
         "code": "F8",
         "name": "Daily Construction 2",
-        "desc": "Craft 3 ships",
+        "desc": "Craft 3 ships.",
         "unlock": [ 609, 617, 619 ],
         "tracking": [ [0,3] ]
     },
      "609": {
         "code": "F9",
         "name": "Daily Dismantlement",
-        "desc": "Scrap 2 ships",
+        "desc": "Scrap 2 ships.",
         "tracking": [ [0,2] ]
     },
     "619": {
         "code": "F18",
         "name": "Daily Equipment Modernisation",
-        "desc": "Perform equipment modernisation once",
+        "desc": "Perform equipment modernisation once.",
         "unlock": [ 637, 638 ],
         "tracking": [ [0,1] ]
     },
@@ -1356,7 +1356,7 @@
     "613": {
         "code": "F12",
         "name": "Weekly Dismantlement",
-        "desc": "Scrap equipment 24 times",
+        "desc": "Scrap equipment 24 times.",
         "tracking": [ [0,24] ]
     },
      "614": {
@@ -1382,7 +1382,7 @@
     "618": {
         "code": "F17",
         "name": "First Equipment Modernisation",
-        "desc": "Perform equipment modernisation once",
+        "desc": "Perform equipment modernisation once.",
         "unlock": [ 619 ]
     },
     "622": {
@@ -1403,19 +1403,19 @@
     "625": {
         "code": "F23",
         "name": "Addition to Prototype Aviation Equipment",
-        "desc": "Scrap equipment 9 times",
+        "desc": "Scrap equipment 9 times.",
         "unlock": [ 627, 630 ]
     },
     "626": {
         "code": "F22",
         "name": "Reorganisation of the elite fighter squad",
-        "desc": "Have Skilled Crew Member, Equip Rank 7 Type 0 Fighter Model 21 on Houshou Secretary, then scrap 2 Type 0 Fighter Model 21 and a Type 96 Fighter",
+        "desc": "Have Skilled Crew Member, Equip Rank 7 Type 0 Fighter Model 21 on Houshou Secretary, then scrap 2 Type 0 Fighter Model 21 and a Type 96 Fighter.",
         "unlock": [ 632 ]
     },
     "627": {
         "code": "F24",
         "name": "Model Conversion: Type 0 Fighter Model 21 (Skilled)",
-        "desc": "Equip a Type 0 Fighter Model 21 (Skilled) on a Carrier secretary, then scrap 2 Type 0 Fighter Model 52",
+        "desc": "Equip a Type 0 Fighter Model 21 (Skilled) on a Carrier secretary, then scrap 2 Type 0 Fighter Model 52.",
         "unlock": [ 628, 629 ]
     },
     "628": {
@@ -1432,7 +1432,7 @@
     "630": {
         "code": "F28",
         "name": "Model Conversion & Reorganization: Type 0 Fighter Model 21 (Skilled)",
-        "desc": "Equip a rank 7 Type 0 Fighter Model 21 (Skilled) on Zuikaku as secretary, then scrap 2 Type 0 Fighter Model 21",
+        "desc": "Equip a rank 7 Type 0 Fighter Model 21 (Skilled) on Zuikaku as secretary, then scrap 2 Type 0 Fighter Model 21.",
         "unlock": [ 632 ]
     },
     "631": {
@@ -1443,7 +1443,7 @@
     "632": {
         "code": "F29",
         "name": "Model Conversion: Zero Fighter Model 21 (w/ Iwamoto Flight)",
-        "desc": "Equip a rank 7 Zero Fighter Model 21 (w/ Iwamoto Flight) on Zuikaku as secretary, then scrap 2 Type 0 Fighter Model 52",
+        "desc": "Equip a rank 7 Zero Fighter Model 21 (w/ Iwamoto Flight) on Zuikaku as secretary, then scrap 2 Type 0 Fighter Model 52.",
         "unlock": [ 167 ]
     },
     "633": {
@@ -1454,26 +1454,26 @@
     "634": {
         "code": "F31",
         "name": "Preparing for new furniture",
-        "desc": "Scrap 9 pieces of equipment",
+        "desc": "Scrap 9 pieces of equipment.",
         "unlock": [ 811 ]
     },
     "635": {
         "code": "F32",
         "name": "Preparations for New Equipment",
-        "desc": "Scrap 5 pieces of equipment",
+        "desc": "Scrap 5 pieces of equipment.",
         "tracking": [ [0,5] ],
         "unlock": [ 312 ]
     },
     "636": {
         "code": "F33",
         "name": "Supply of New Landing Force Equipment",
-        "desc": "Scrap two 7.7mm Machine Guns and two 12.7mm Machine Guns",
+        "desc": "Scrap two 7.7mm Machine Guns and two 12.7mm Machine Guns.",
         "unlock": [ 815 ]
     },
     "638": {
         "code": "F34",
         "name": "Anti-Air Gun Mass Production",
-        "desc": "(Weekly) Scrap Anti-Air Guns 6 times",
+        "desc": "(Weekly) Scrap Anti-Air Guns 6 times.",
         "tracking": [ [0,6] ]
     },
     "637": {
@@ -1532,14 +1532,14 @@
     "702": {
         "code": "G2",
         "name": "Daily Modernization",
-        "desc": "Perform 2 successful modernizations",
+        "desc": "Perform 2 successful modernizations.",
         "unlock": [ 703 ],
         "tracking": [ [0,2] ]
     },
     "703": {
         "code": "G3",
         "name": "Weekly Modernization",
-        "desc": "(Weekly) Perform 15 successful modernizations",
+        "desc": "(Weekly) Perform 15 successful modernizations.",
         "tracking": [ [0,15] ]
     },
     "704": {
